@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://santhoshkp2386.github.io/sitemap.xml
